@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9151baf7-2e1a-4d5b-94d4-51cc6d922b77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/QuizGame1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/ForgotPasswordActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/QuizActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/res/drawable/password_forgot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/res/layout/activity_forgot_password.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/res/layout/activity_quiz.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/LoginActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/SignupActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/java/com/techmania/quizgame1/SignupActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/app/src/main/res/xml/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizGame1/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/QuizGame1/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;omarkammourieh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NouraHoumani/QuizGame.git&quot;,
+    &quot;accountId&quot;: &quot;b6efe6d1-20ed-409e-973c-2ec710c12820&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pbxzJ63NuU1OkiRZtg5eBTovG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "git-widget-placeholder": "noura",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/QuizGame1/QuizGame1",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9151baf7-2e1a-4d5b-94d4-51cc6d922b77" name="Changes" comment="" />
+      <created>1733048836453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733048836453</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

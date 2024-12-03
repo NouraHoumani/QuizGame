@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_signup.png.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\signup.png"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_login.png.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_password_forgot.png.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\password_forgot.png"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_login_shape.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\login_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_splash_image.png.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\splash_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\anim_splash_anim.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\anim\\splash_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.techmania.quizgame1.app-debug-69:/layout_activity_forgot_password.xml.flat",
+        "source": "com.techmania.quizgame1.app-main-71:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-debug-69:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Me2\\.gradle\\daemon\\8.9\\com.techmania.quizgame1.app-main-71:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    }
+]
