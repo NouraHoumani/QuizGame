@@ -75,6 +75,10 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview:1.6.0")
     implementation("androidx.compose.material3:material3:1.2.0-alpha09")
 
+    implementation(libs.firebase.auth)
+    implementation(libs.androidx.appcompat)
+    implementation(libs.androidx.activity)
+
     // Unit Testing
     testImplementation("junit:junit:4.13.2")
 

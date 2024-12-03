@@ -35,14 +35,10 @@ class SignupActivity : AppCompatActivity() {
             val email= signupBinding.editTextSignupEmail.text.toString()
             val password=signupBinding.editTextSignupPassword.text.toString()
 
+
             signupWithFirebase(email,password)
         }
 
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
-        }
     }
 
     fun signupWithFirebase(email : String, password : String){
@@ -66,5 +62,6 @@ class SignupActivity : AppCompatActivity() {
 
         }
     }
+
 }
 
